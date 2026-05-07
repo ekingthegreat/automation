@@ -1,13 +1,3 @@
-
----
-
-## 📋 What This Does
-
-1. **Generates** a Tagalog story (using local AI or templates)
-2. **Converts** the story to Tagalog speech (Google TTS — free)
-3. **Auto-generates** Tagalog captions (OpenAI Whisper — free)
-4. **Assembles** the final video (FFmpeg — free)
-
 ---
 
 ## 🖥️ REQUIREMENTS
