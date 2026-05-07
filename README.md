@@ -1,5 +1,3 @@
----
-
 ## 🖥️ REQUIREMENTS
 
 - **Python 3.9+** (free): https://python.org
