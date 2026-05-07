@@ -1,6 +1,3 @@
-# 🍎 Story Bot
-### Automatic Tagalog Story Generator
-#### 100% FREE Stack — ₱0/month
 
 ---
 
@@ -10,8 +7,6 @@
 2. **Converts** the story to Tagalog speech (Google TTS — free)
 3. **Auto-generates** Tagalog captions (OpenAI Whisper — free)
 4. **Assembles** the final video (FFmpeg — free)
-5. **Uploads** to YouTube and TikTok automatically (free APIs)
-6. **Runs daily** on a schedule without you doing anything
 
 ---
 
