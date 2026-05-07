@@ -1,12 +1,12 @@
-# 🍎 AI Fruit Story Bot
-### Automatic Tagalog Fruit Story Generator for YouTube & TikTok
+# 🍎 Story Bot
+### Automatic Tagalog Story Generator
 #### 100% FREE Stack — ₱0/month
 
 ---
 
 ## 📋 What This Does
 
-1. **Generates** a Tagalog fruit character story (using local AI or templates)
+1. **Generates** a Tagalog story (using local AI or templates)
 2. **Converts** the story to Tagalog speech (Google TTS — free)
 3. **Auto-generates** Tagalog captions (OpenAI Whisper — free)
 4. **Assembles** the final video (FFmpeg — free)
