@@ -1,0 +1,27 @@
+# Python dependencies — all FREE
+
+# Text-to-Speech (Tagalog/Filipino)
+gtts==2.5.1
+
+# Auto captions from audio
+openai-whisper==20231117
+
+# Video processing
+moviepy==1.0.3
+
+# YouTube upload API
+google-api-python-client==2.114.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# Scheduler
+schedule==1.2.1
+
+# Audio processing (for multi-chunk TTS)
+pydub==0.25.1
+
+# HTTP requests (TikTok API)
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.0

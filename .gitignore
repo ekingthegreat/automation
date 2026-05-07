@@ -1,0 +1,7 @@
+# System files
+desktop.ini
+
+# Environment files
+.env
+
+# Sensitive config
