@@ -115,15 +115,18 @@ def burn_captions(video_path: str, srt_path: str, output_path: str) -> str:
     # Caption style: white bold text, black outline, bottom center
     # Adjust FontSize (24-32 works well for 9:16 vertical videos)
     subtitle_style = (
-        "FontName=Arial,"
-        "FontSize=28,"
-        "PrimaryColour=&H00FFFFFF,"   # white text
+        "FontName=Arial Black,"
+        "FontSize=36,"
+        "PrimaryColour=&H0000FFFF,"   # yellow text
+        "SecondaryColour=&H00FFFFFF," # white for secondary words
         "OutlineColour=&H00000000,"   # black outline
+        "BackColour=&H00000000,"
         "BorderStyle=1,"
-        "Outline=2,"
-        "Shadow=1,"
+        "Outline=3,"
+        "Shadow=0,"
+        "Bold=1,"
         "Alignment=2,"                # bottom center
-        "MarginV=40"                  # distance from bottom
+        "MarginV=60"
     )
 
     # Escape path for FFmpeg (handle spaces and special chars)
