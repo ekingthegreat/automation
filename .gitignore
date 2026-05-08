@@ -3,5 +3,6 @@ desktop.ini
 
 # Environment files
 .env
-
+__pycache__/
+output_videos/
 # Sensitive config
